@@ -1,0 +1,27 @@
+.apple{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px black;
+}
+.orange{
+    font-size: 15px;
+    color: black;
+}
+
+.person{
+    position: fixed;
+    width: 100%;
+    background-color: lightcoral;
+    bottom: 0;
+    color: blue;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    background-color: grey;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+}
